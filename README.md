@@ -1,4 +1,4 @@
-![Banner image](https://raw.githubusercontent.com/imrulkaisar/imrulkaisar.github.io/main/images/banner.jpg)
+![Banner image](https://raw.githubusercontent.com/imrulkaisar/imrulkaisar.github.io/main/images/banner-new.jpg)
 
 <h2 align="center">📈 Current Stats</h2>
 
